@@ -18,5 +18,8 @@ The case uses 5 M3 screws and 5 heatset inserts. There are 4 assembly holes on t
 The middle plate holding the keys is sandwiched between the cover and the plate.
 
 
+Made in Onshape
+
+
 
 
