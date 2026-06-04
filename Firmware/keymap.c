@@ -31,9 +31,9 @@ const uint16_t PROGMEM encoder_map[][1][2] = {
 
 bool oled_task_user() {
 
-    oled_set_cursor(0,1)
+    oled_set_cursor(0,1);
 
-    oled_write("Zepad", false)
+    oled_write("Zepad", false);
     return false;
 }
 #endif
